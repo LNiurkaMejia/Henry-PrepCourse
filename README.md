@@ -1,2 +1,1 @@
-# Henry-PrepCourse
-Repositorio modulo 2 henry 
+Proyecto de como crear un repositorio y clonarlo con git bash
